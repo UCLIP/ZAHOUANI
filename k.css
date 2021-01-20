@@ -1,0 +1,18 @@
+html { 
+  margin:0;
+  padding:0;
+  background: url(hi.gif) no-repeat center fixed; 
+  background-size: cover; 
+}
+aa { 
+    background-color: green; 
+    color: white; 
+ }
+
+ bb { 
+    background-color: white; 
+    color: red ; 
+ } 
+.image{
+    float: right;
+}   

@@ -1,0 +1,30 @@
+html { 
+  margin:0;
+  padding:0;
+  background: url(2.gif) no-repeat center fixed; 
+  background-size: cover; 
+}
+typessports { 
+    
+    color: white; 
+ }
+
+sports { 
+
+    color: white; 
+ } 
+
+commentaires { 
+
+    color: white; 
+ } 
+
+.aa{
+    float: right;
+}  
+.bb{
+    float: right;
+} 
+.cc{
+    float: right;
+}      
